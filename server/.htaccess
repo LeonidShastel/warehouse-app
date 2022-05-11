@@ -1,0 +1,4 @@
+PassengerNodejs /home/t/thelax67/.local/bin/node
+PassengerAppRoot /home/t/thelax67/node/warehouse
+PassengerAppType node
+PassengerStartupFile app.js
